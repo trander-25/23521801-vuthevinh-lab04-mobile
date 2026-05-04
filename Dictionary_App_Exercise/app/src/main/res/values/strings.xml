@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dictionary_App_Exercise</string>
+    <string name="dictionary_title">Dictionary</string>
+    <string name="search_label">Enter a word</string>
+    <string name="lookup_button">LOOKUP</string>
+    <string name="definition_label">Definition</string>
+    <string name="suggestions_label">Suggestions</string>
+    <string name="message_enter_word">Please enter a word to search.</string>
+    <string name="message_no_matches">No matching words found.</string>
+</resources>
